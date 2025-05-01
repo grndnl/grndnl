@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[More info on my site](https://grndnl.github.io/)
 <!--
 **grndnl/grndnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
